@@ -17,15 +17,6 @@ a multi-agent AI underwriting platform for insurance, built by a team of about t
 - replaced 20–30-minute deploys to a shared environment with a one-command local one that runs the whole pipeline
 - AI summaries of insurance documents of 300+ pages, used in production underwriting
 
-## worth a look here
-
-- [ttbotc_resolution_mod](https://github.com/bruno-gelb/ttbotc_resolution_mod): a widescreen mod for Tzar, a
-  real-time strategy game from 2000. 14 bytes of patches to the game's 32-bit program, including a fix for how it
-  redraws the map past 1024 pixels, plus an installer with undo and CI releases for Windows and Linux.
-- [awesome-old-games-modern-displays](https://github.com/bruno-gelb/awesome-old-games-modern-displays): a curated
-  list of mods, wrappers and patches that make old PC games work on modern displays. A Python script indexes 1,061
-  games from the list and from what the biggest fix packs support, so you can find the fix for your game with Ctrl+F.
-
 ## where to find me
 
 [Twitter](https://twitter.com/bruno_gelb), where I'm most active · [Telegram](https://t.me/bruno_gelb) ·
