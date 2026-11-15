@@ -2,7 +2,7 @@ hi, I'm Bruno: a Senior Python Engineer who builds AI/LLM systems that actually 
 and web, the last few in agentic AI: multi-agent pipelines, human-in-the-loop review, context engineering. I've also
 led teams: tech ownership of seven products and about fifty services.
 
-**Claude Certified Architect – Foundations (CCAR-F).**
+**[Claude Certified Architect – Foundations (CCAR-F)](https://www.credly.com/badges/c4d5ab43-64af-44c2-951b-bbbff1c92a7e/).**
 
 I'm looking for my next role: contract or full-time, remote or in Yerevan. CV:
 [Senior Python Engineer](https://www.dropbox.com/scl/fi/9hzo6stvzgb225c87ha2k/bruno_gelb_python.pdf?rlkey=r5yh0zc7kwz55y7cpwb33305e&raw=1#view=Fit)
